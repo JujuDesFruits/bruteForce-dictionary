@@ -20,7 +20,7 @@ deux  --> chiffré cette chaine en MD5 si les caractères dépasse une longueur 
 trois --> lire stocker et comparer avec le fichier shadow
 
 proposition de solution:
-[Force Brute python scritp](https://github.com/JujuDesFruits/bruteForce-dictionary/hackThisShitDumber.py)
+[Force Brute python scritp](https://github.com/JujuDesFruits/bruteForce-dictionary/blob/master/hackThisShitDumber.py)
 
 ## Dictionary
 
@@ -31,4 +31,4 @@ deux  --> lire et chiffrer en md5 le dictionnaire
 trois --> comparé les valeurs obtenu du dico avec le ficier shadow
 
 proposition de solution:
-[Dictionary python scritp](https://github.com/JujuDesFruits/bruteForce-dictionary/hackThisShit.py)
+[Dictionary python scritp](https://github.com/JujuDesFruits/bruteForce-dictionary/blob/master/hackThisShit.py)
